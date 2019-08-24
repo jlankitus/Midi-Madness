@@ -1,0 +1,6 @@
+sceneSetups:
+- path: Assets/Cool Packages/Shuriken Salvo by Moonflower Carnivore/Scenes/demo mobile
+    swarm.unity
+  isLoaded: 0
+  isActive: 0
+  isSubScene: 0
