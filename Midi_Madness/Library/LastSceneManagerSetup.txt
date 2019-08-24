@@ -1,6 +1,5 @@
 sceneSetups:
-- path: Assets/Cool Packages/Shuriken Salvo by Moonflower Carnivore/Scenes/demo mobile
-    swarm.unity
-  isLoaded: 0
-  isActive: 0
+- path: Assets/Cool Packages/Fractal/Scene.unity
+  isLoaded: 1
+  isActive: 1
   isSubScene: 0
